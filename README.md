@@ -21,3 +21,6 @@ In this analysis, we used K-Means and Principle Component Analysis (PCA) to clus
 ![PCA CLusters with components 2 and 3](./Images/PCA_Clusters_pca2_pca3.JPG)
 
 
+With the help of PCA, we used less amount of features and this reduces the amount of inertia. The varience in our clustered data decrease because of reduction in dimentionality.  
+
+The original clusters and the pca clusters are matching.  We reached the optimal result with less resources, this is helpful while working with big data.
